@@ -1,0 +1,23 @@
+/* Same three colors as my Stream Deck keys: black, white, and pink for
+   the one thing you can click. */
+body {
+  margin: 0;
+  padding: 48px 16px;
+  background: #000000;
+  color: #ffffff;
+  font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+}
+
+main {
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+a {
+  color: #f2a7c3;
+}
